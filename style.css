@@ -1,0 +1,27 @@
+h1, h2, h3{
+    padding: .5rem 1rem;
+    font-family: Helvetica ;
+}
+
+h1{
+    color: white;
+    background-color: black;
+}
+
+h1 span{
+    color:aqua;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    font-style: italic;
+    background-color: purple;
+    font-weight: 400;
+}
+
+h3{
+    text-align: right;
+    text-decoration: underline;
+    background-color: skyblue;
+}
